@@ -1,14 +1,13 @@
 <div align="center">
 
 ## Hey, It's Pri!  💁🏾‍♀️
-
   I'm a recent bootcamp graduate from Tech Elevator who studied Java Web Application Development. Although I had a non-traditional start to my software development career, the pivot made has been a fruitful choice that re-ignited my former passions as a "tinkerer" at heart. Returning to my original passion, as a Software Developer, I'm excited to find where I can make a change today. 
   
   Check me out below, & I'm always open for a chat!
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyankapatelll/)   
 
-  #
+  ***
 </div>
 
 <div>
