@@ -32,6 +32,8 @@
 <ul>
   <img align="left" width="275" height="200" src="https://user-images.githubusercontent.com/104874911/209710042-030ac6d1-cfa3-4ce7-8f69-1ebffa36f0d9.gif"/>
 
+  /
+  
   <img align="right" width="450" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankapatelll&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact&hide=shell"/>
 <ul/>
 &nbsp;
